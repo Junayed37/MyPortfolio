@@ -13,7 +13,7 @@ export const portfolioData = {
     bio: "I build fast, scalable, and user-centric web applications using modern JavaScript ecosystems—from React & Next.js on the frontend to Node.js, Express, and NestJS on the backend.",
     email: "junayedrashid.dev@gmail.com",
     github: "https://github.com/Junayed37",
-    linkedin: "https://linkedin.com/in/junayed-rashid-7a837330",
+    linkedin: "https://www.linkedin.com/in/junayed-rashid-7a8373330/",
     resumeUrl: "/resume.pdf", // public/resume.pdf ফাইলে আপনার সিভি রাখবেন
   },
   skills: {
